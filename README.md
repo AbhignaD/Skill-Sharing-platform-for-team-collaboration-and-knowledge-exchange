@@ -7,7 +7,7 @@ Username: admin
 
 Password: admin
 
-For the project Xampp 7.3.28 version have been used.
+For the project Xampp 7.3.28 version has been used.
 
 Database name - blog_admin_db
 
